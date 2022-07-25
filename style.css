@@ -78,7 +78,7 @@ a:active,a:hover {
     width: 100%;
     background-image: 
     linear-gradient(to right, rgba(73, 31, 11, .2), rgba(207, 78, 49, 0.2)),
-   url('bg.jpg');
+   url('images/bg.jpg');
    background-repeat: no-repeat;
    background-size: cover;
     padding: 0;
@@ -258,7 +258,7 @@ li:hover,li:active{
     width: 100%;
     background-image: 
     linear-gradient(to right, rgba(73, 31, 11, .2), rgba(207, 78, 49, 0.2)),
-   url('bg.jpg');
+   url('images/bg.jpg');
    background-repeat: no-repeat;
    background-size: cover;
     padding: 0;
@@ -346,7 +346,7 @@ li:hover,li:active{
     width: 100%;
     background-image: 
     linear-gradient(to right, rgba(73, 31, 11, .2), rgba(207, 78, 49, 0.2)),
-   url('bg3.jpg');
+   url('images/bg3.jpg');
    background-repeat: no-repeat;
    background-size: cover;
     padding: 0;
